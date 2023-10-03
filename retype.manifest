@@ -1,0 +1,228 @@
+{
+  "version": "3.5.0",
+  "created": "2023-10-03T12:15:45Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "breeding/index.html"
+    },
+    {
+      "path": "components/index.html"
+    },
+    {
+      "path": "contractssecurity/index.html"
+    },
+    {
+      "path": "economy/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "quick-start/get-turtle/index.html"
+    },
+    {
+      "path": "quick-start/index.html"
+    },
+    {
+      "path": "quick-start/quick-start/index.html"
+    },
+    {
+      "path": "racing/events/index.html"
+    },
+    {
+      "path": "racing/index.html"
+    },
+    {
+      "path": "racing/performance/index.html"
+    },
+    {
+      "path": "racing/race-track/index.html"
+    },
+    {
+      "path": "racing/ranking-elo/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sample/index.html"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "static/award.png"
+    },
+    {
+      "path": "static/balboa.png"
+    },
+    {
+      "path": "static/bandw.png"
+    },
+    {
+      "path": "static/buy.png"
+    },
+    {
+      "path": "static/cash.png"
+    },
+    {
+      "path": "static/easter-day.png"
+    },
+    {
+      "path": "static/egg.png"
+    },
+    {
+      "path": "static/event.png"
+    },
+    {
+      "path": "static/evolve.png"
+    },
+    {
+      "path": "static/finish.png"
+    },
+    {
+      "path": "static/first-prize.png"
+    },
+    {
+      "path": "static/gym.png"
+    },
+    {
+      "path": "static/hand.png"
+    },
+    {
+      "path": "static/hillrun.png"
+    },
+    {
+      "path": "static/logo.png"
+    },
+    {
+      "path": "static/mountain.png"
+    },
+    {
+      "path": "static/race-track.png"
+    },
+    {
+      "path": "static/ranking.png"
+    },
+    {
+      "path": "static/ranks.png"
+    },
+    {
+      "path": "static/road.png"
+    },
+    {
+      "path": "static/running.png"
+    },
+    {
+      "path": "static/security.png"
+    },
+    {
+      "path": "static/signature.png"
+    },
+    {
+      "path": "static/speedometer.png"
+    },
+    {
+      "path": "static/star.png"
+    },
+    {
+      "path": "static/start.png"
+    },
+    {
+      "path": "static/trophy-coin.png"
+    },
+    {
+      "path": "static/trophy.png"
+    },
+    {
+      "path": "static/turtle-breed.png"
+    },
+    {
+      "path": "static/turtle-kid.png"
+    },
+    {
+      "path": "static/turtle-shell.png"
+    },
+    {
+      "path": "static/turtle-speed.png"
+    },
+    {
+      "path": "static/turtle.png"
+    },
+    {
+      "path": "static/wallet.png"
+    },
+    {
+      "path": "static/winner.png"
+    },
+    {
+      "path": "static/world-cup.png"
+    },
+    {
+      "path": "training/index.html"
+    },
+    {
+      "path": "turtles/appearance/index.html"
+    },
+    {
+      "path": "turtles/breeding/index.html"
+    },
+    {
+      "path": "turtles/crossbreed/index.html"
+    },
+    {
+      "path": "turtles/evolve/index.html"
+    },
+    {
+      "path": "turtles/family/index.html"
+    },
+    {
+      "path": "turtles/index.html"
+    },
+    {
+      "path": "turtles/rating/index.html"
+    }
+  ]
+}

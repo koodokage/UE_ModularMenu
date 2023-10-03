@@ -8,12 +8,12 @@ output: ./docs # Custom path to the output directory.
 
 # -----------------------------------------------------------------------------
 
-url: turtlekaiz.github.io/whitepaper/            # The base URL of your website.
+url: https://koodokage.github.io/UE_ModularMenu/      # The base URL of your website.
 
 
 # -----------------------------------------------------------------------------
 
-poweredByRetype: true # Set to false to remove the Powered by Retype branding.
+poweredByRetype: false # Set to false to remove the Powered by Retype branding.
                       # A Retype Pro license is required.
                       # See: https://retype.com/pro
 
@@ -52,27 +52,28 @@ jobs:
 # -----------------------------------------------------------------------------
 
 branding:
-  title: Turtle Kaiz                 # Your custom website title; keep it short.
-  logo: static/logo.png          # Path to a logo file.
-  logoDark: static/logo.png # Path to a logo file to use in dark mode.
-  logoAlign: right               # Align the logo to the right or the left.
+  title: Modular Menu # Your custom website title; keep it short.
+  #logo: static/logo.png          # Path to a logo file.
+  #logoDark: static/logo.png # Path to a logo file to use in dark mode.
+  #logoAlign: left               # Align the logo to the right or the left.
   label: Docs # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
-      background: "#ff0000" # Custom color for the label background.
+      background: "#007afc" # Custom color for the label background.
 
 # -----------------------------------------------------------------------------
 
 links: # A list of custom links to add to the top bar of the generated website.
        # See also: footer.links
-  - text: Home      # The text to use for the link
-    link: https://localhost.com # Link to an internal file or external URL.
-  - text: API
-    link: /   # Link to an internal file or external URL.
-    icon: gear      # A custom icon name, :emoji:, <svg>, or path to a file.
-    iconAlign: left # Icon alignment, to the left or right. Default is left.
-    target: blank   # Custom target. Use blank to open link in a new window.
+  - text: SkyView Innovations      # The text to use for the link
+    link: https://skyviewinnovations.com/ # Link to an internal file or external URL.
+    icon: "static/512_svi.png" 
+    # text: API
+    #link: /   # Link to an internal file or external URL.
+    #icon: gear      # A custom icon name, :emoji:, <svg>, or path to a file.
+    #iconAlign: left # Icon alignment, to the left or right. Default is left.
+    #target: blank   # Custom target. Use blank to open link in a new window.
 
 # -----------------------------------------------------------------------------
 
@@ -88,7 +89,7 @@ footer:
 
 # -----------------------------------------------------------------------------
 
-cname: turtlekaiz.github.io # The CNAME file value, or false to not create a CNAME file.
+cname: koodokage.github.io # The CNAME file value, or false to not create a CNAME file.
 
 # -----------------------------------------------------------------------------
 
@@ -113,7 +114,7 @@ exclude: # A list of files or folders to exclude from the build process.
 
 # -----------------------------------------------------------------------------
 
-favicon: static/logo.png # Path to a custom favicon, or.
+favicon: static/512_svi.png # Path to a custom favicon, or.
                             # just put a favicon.ico in your project root.
 
 # -----------------------------------------------------------------------------

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://turtlekaiz.github.io/whitepaper/sitemap.xml.gz
+Sitemap: https://koodokage.github.io/UE_ModularMenu/sitemap.xml.gz
