@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-04T10:29:42Z",
+  "created": "2023-10-04T10:35:43Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -256,6 +256,9 @@
     },
     {
       "path": "static/signature.png"
+    },
+    {
+      "path": "static/skyview-gray.png"
     },
     {
       "path": "static/slider.png"
