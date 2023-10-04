@@ -10,5 +10,5 @@ icon: "/static/hand.png"
 
 **It is a package written entirely in Blueprint-UMG as a component base containing modular and ready-made parts and used as a plug-in on Unreal Engine** 
 
-![](/static/header.png)
+![](/static/skyview-gray.png)
  
