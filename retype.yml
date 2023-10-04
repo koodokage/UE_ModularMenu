@@ -56,7 +56,7 @@ branding:
   #logo: static/logo.png          # Path to a logo file.
   #logoDark: static/logo.png # Path to a logo file to use in dark mode.
   #logoAlign: left               # Align the logo to the right or the left.
-  label: Docs # Optional label. To remove the label, remove this config.
+  label: v1.0 # Optional label. To remove the label, remove this config.
   colors:
     label:                  # Label colors
       text: "#ffffff"       # Custom color for the label text.
@@ -70,7 +70,7 @@ links: # A list of custom links to add to the top bar of the generated website.
     link: https://skyviewinnovations.com/ # Link to an internal file or external URL.
     icon: "static/512_svi.png" 
     target: blank
-  - text: version 1.0
+  - text: Unreal Engine 5.2.0
     link: /   # Link to an internal file or external URL.
     icon: package      # A custom icon name, :emoji:, <svg>, or path to a file.
     iconAlign: left # Icon alignment, to the left or right. Default is left..
