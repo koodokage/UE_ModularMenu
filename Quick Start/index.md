@@ -4,5 +4,5 @@ order: 90
 icon: "/static/start.png"
 ---
 
-[!ref icon="/static/wallet.png"](quick-start.md)
-[!ref icon="/static/buy.png"](get-turtle.md)
+[!ref icon="/static/add.png"](addplugin.md)
+[!ref icon="/static/play.png"](usage.md)
