@@ -12,24 +12,24 @@
     <meta name="generator" content="Retype 3.5.0">
 
     <!-- Primary Meta Tags -->
-    <title>Quick Start | Widgets</title>
-    <meta name="title" content="Quick Start | Widgets">
-    <meta name="description" content="Quick Start Quick Start">
+    <title>Layout Component | Widgets</title>
+    <meta name="title" content="Layout Component | Widgets">
+    <meta name="description" content="Fully customizable layouts preset with in/out animations">
 
     <!-- Canonical -->
-    <link rel="canonical" href="https://koodokage.github.io/UE_ModularMenu/quick-start/">
+    <link rel="canonical" href="https://koodokage.github.io/UE_ModularMenu/layout-component/">
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://koodokage.github.io/UE_ModularMenu/quick-start/">
-    <meta property="og:title" content="Quick Start | Widgets">
-    <meta property="og:description" content="Quick Start Quick Start">
+    <meta property="og:url" content="https://koodokage.github.io/UE_ModularMenu/layout-component/">
+    <meta property="og:title" content="Layout Component | Widgets">
+    <meta property="og:description" content="Fully customizable layouts preset with in/out animations">
 
     <!-- Twitter -->
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://koodokage.github.io/UE_ModularMenu/quick-start/">
-    <meta property="twitter:title" content="Quick Start | Widgets">
-    <meta property="twitter:description" content="Quick Start Quick Start">
+    <meta property="twitter:url" content="https://koodokage.github.io/UE_ModularMenu/layout-component/">
+    <meta property="twitter:title" content="Layout Component | Widgets">
+    <meta property="twitter:description" content="Fully customizable layouts preset with in/out animations">
 
     <script data-cfasync="false">(function () { var el = document.documentElement, m = localStorage.getItem("doc_theme"), wm = window.matchMedia; if (m === "dark" || (!m && wm && wm("(prefers-color-scheme: dark)").matches)) { el.classList.add("dark") } else { el.classList.remove("dark") } })();</script>
 
@@ -193,36 +193,38 @@
                                 <!-- Rendered if sidebar right is enabled -->
                                 <div id="docs-sidebar-right-toggle"></div>
                                 <!-- Page content  -->
-<doc-anchor-target id="quick-start" class="break-words">
+<doc-anchor-target id="layout-component" class="break-words">
     <h1>
-        <doc-anchor-trigger class="header-anchor-trigger" to="#quick-start">#</doc-anchor-trigger>
-        <span>Quick Start</span>
+        <doc-anchor-trigger class="header-anchor-trigger" to="#layout-component">#</doc-anchor-trigger>
+        <span>Layout Component</span>
     </h1>
 </doc-anchor-target>
+<style>
+    .sample {
+        text-align: center;
+        color: #1956AF;
+        border-radius: 10px;
+        background-color: #ffb300;
+        border: 1px solid #1956AF;
+        padding-top: 20px;
+        margin-bottom: 20px;
+    }
+</style>
+<p>Fully customizable layouts preset with in/out animations</p>
+<div class="sample"><p>Main Folder :  <code v-pre>Content/Modular Menu/Widgets/LayoutComponents</code></p>
+</div>
 <p>
 <div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
     <div class="flex items-center text-blue-500 dark:text-blue-400">
         <span class="inline-block mb-px">
-            <img width="20" src="../static/add.png">
+            <img width="20" src="../static/tabpanel.png">
         </span>
-        <span class="inline-block font-medium ml-2">Add To Level</span>
+        <span class="inline-block font-medium ml-2">Tab Panel</span>
     </div>
     <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
-        <span>addplugin/</span>
+        <span>tablayout/</span>
     </div>
-    <a href="addplugin/" class="absolute block inset-0"></a>
-</div>
-<div class="mb-6 px-5 py-4 flex justify-between relative border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded transition-colors duration-150">
-    <div class="flex items-center text-blue-500 dark:text-blue-400">
-        <span class="inline-block mb-px">
-            <img width="20" src="../static/play.png">
-        </span>
-        <span class="inline-block font-medium ml-2">Usage</span>
-    </div>
-    <div class="flex items-center text-xs text-gray-400 dark:text-dark-400">
-        <span>usage/</span>
-    </div>
-    <a href="usage/" class="absolute block inset-0"></a>
+    <a href="tablayout/" class="absolute block inset-0"></a>
 </div>
 </p>
 
@@ -234,20 +236,20 @@
                             
                                 <nav class="flex mt-14">
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../">
+                                        <a class="px-5 py-4 h-full flex items-center break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-l-lg transition-colors duration-150 relative hover:z-5" href="../menu-component/modal/">
                                             <svg xmlns="http://www.w3.org/2000/svg" class="mr-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19 11H7.41l5.29-5.29a.996.996 0 10-1.41-1.41l-7 7a1 1 0 000 1.42l7 7a1.024 1.024 0 001.42-.01.996.996 0 000-1.41L7.41 13H19c.55 0 1-.45 1-1s-.45-1-1-1z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                             <span>
                                                 <span class="block text-xs font-normal text-gray-400 dark:text-dark-400">Previous</span>
-                                                <span class="block mt-1">Welcome</span>
+                                                <span class="block mt-1">Modal [Comming Soon]</span>
                                             </span>
                                         </a>
                                     </div>
                             
                                     <div class="w-1/2">
-                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../quick-start/addplugin/">
+                                        <a class="px-5 py-4 -mx-px h-full flex items-center justify-end break-normal font-medium text-blue-500 dark:text-blue-400 border border-gray-300 hover:border-gray-400 dark:border-dark-650 dark:hover:border-dark-450 rounded-r-lg transition-colors duration-150 relative hover:z-5" href="../layout-component/tablayout/">
                                             <span>
                                                 <span class="block text-xs font-normal text-right text-gray-400 dark:text-dark-400">Next</span>
-                                                <span class="block mt-1">Add To Level</span>
+                                                <span class="block mt-1">Tab Panel</span>
                                             </span>
                                             <svg xmlns="http://www.w3.org/2000/svg" class="ml-3" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" overflow="visible"><path d="M19.92 12.38a1 1 0 00-.22-1.09l-7-7a.996.996 0 10-1.41 1.41l5.3 5.3H5c-.55 0-1 .45-1 1s.45 1 1 1h11.59l-5.29 5.29a.996.996 0 000 1.41c.19.2.44.3.7.3s.51-.1.71-.29l7-7c.09-.09.16-.21.21-.33z" /><path fill="none" d="M0 0h24v24H0z" /></svg>
                                         </a>
@@ -294,6 +296,6 @@
 
     <div id="docs-overlay-target"></div>
 
-    <script data-cfasync="false">window.__DOCS__ = { "title": "Quick Start", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
+    <script data-cfasync="false">window.__DOCS__ = { "title": "Layout Component", level: 1, icon: "file", hasPrism: false, hasMermaid: false, hasMath: false, tocDepth: 23 }</script>
 </body>
 </html>

@@ -1,6 +1,6 @@
 {
   "version": "3.5.0",
-  "created": "2023-10-03T12:15:45Z",
+  "created": "2023-10-04T10:23:46Z",
   "files": [
     {
       "path": ".nojekyll"
@@ -9,43 +9,90 @@
       "path": "404.html"
     },
     {
-      "path": "breeding/index.html"
+      "path": "breeding/index.html",
+      "old": true
     },
     {
-      "path": "components/index.html"
+      "path": "component-customization/index.html"
     },
     {
-      "path": "contractssecurity/index.html"
+      "path": "components/index.html",
+      "old": true
     },
     {
-      "path": "economy/index.html"
+      "path": "contractssecurity/index.html",
+      "old": true
+    },
+    {
+      "path": "economy/index.html",
+      "old": true
     },
     {
       "path": "index.html"
     },
     {
-      "path": "quick-start/get-turtle/index.html"
+      "path": "layout-component/index.html"
+    },
+    {
+      "path": "layout-component/tablayout/index.html"
+    },
+    {
+      "path": "menu-component/combobox/index.html"
+    },
+    {
+      "path": "menu-component/index.html"
+    },
+    {
+      "path": "menu-component/input/index.html"
+    },
+    {
+      "path": "menu-component/modal/index.html"
+    },
+    {
+      "path": "menu-component/selector/index.html"
+    },
+    {
+      "path": "menu-component/slider/index.html"
+    },
+    {
+      "path": "menu-component/toggle/index.html"
+    },
+    {
+      "path": "quick-start/addplugin/index.html"
+    },
+    {
+      "path": "quick-start/get-turtle/index.html",
+      "old": true
     },
     {
       "path": "quick-start/index.html"
     },
     {
-      "path": "quick-start/quick-start/index.html"
+      "path": "quick-start/quick-start/index.html",
+      "old": true
     },
     {
-      "path": "racing/events/index.html"
+      "path": "quick-start/usage/index.html"
     },
     {
-      "path": "racing/index.html"
+      "path": "racing/events/index.html",
+      "old": true
     },
     {
-      "path": "racing/performance/index.html"
+      "path": "racing/index.html",
+      "old": true
     },
     {
-      "path": "racing/race-track/index.html"
+      "path": "racing/performance/index.html",
+      "old": true
     },
     {
-      "path": "racing/ranking-elo/index.html"
+      "path": "racing/race-track/index.html",
+      "old": true
+    },
+    {
+      "path": "racing/ranking-elo/index.html",
+      "old": true
     },
     {
       "path": "resources/css/retype.css"
@@ -93,6 +140,12 @@
       "path": "sitemap.xml.gz"
     },
     {
+      "path": "static/512_svi.png"
+    },
+    {
+      "path": "static/add.png"
+    },
+    {
       "path": "static/award.png"
     },
     {
@@ -102,10 +155,20 @@
       "path": "static/bandw.png"
     },
     {
-      "path": "static/buy.png"
+      "path": "static/buy.png",
+      "old": true
     },
     {
       "path": "static/cash.png"
+    },
+    {
+      "path": "static/combobox.png"
+    },
+    {
+      "path": "static/component.png"
+    },
+    {
+      "path": "static/custom.png"
     },
     {
       "path": "static/easter-day.png"
@@ -132,22 +195,46 @@
       "path": "static/hand.png"
     },
     {
-      "path": "static/hillrun.png"
+      "path": "static/header.png"
     },
     {
-      "path": "static/logo.png"
+      "path": "static/hillrun.png",
+      "old": true
     },
     {
-      "path": "static/mountain.png"
+      "path": "static/layout.png"
     },
     {
-      "path": "static/race-track.png"
+      "path": "static/layout1.png"
     },
     {
-      "path": "static/ranking.png"
+      "path": "static/logo.png",
+      "old": true
     },
     {
-      "path": "static/ranks.png"
+      "path": "static/modal.png"
+    },
+    {
+      "path": "static/mountain.png",
+      "old": true
+    },
+    {
+      "path": "static/play.png"
+    },
+    {
+      "path": "static/puzzle.png"
+    },
+    {
+      "path": "static/race-track.png",
+      "old": true
+    },
+    {
+      "path": "static/ranking.png",
+      "old": true
+    },
+    {
+      "path": "static/ranks.png",
+      "old": true
     },
     {
       "path": "static/road.png"
@@ -159,7 +246,19 @@
       "path": "static/security.png"
     },
     {
+      "path": "static/selector.png"
+    },
+    {
+      "path": "static/settings.png"
+    },
+    {
+      "path": "static/setup.png"
+    },
+    {
       "path": "static/signature.png"
+    },
+    {
+      "path": "static/slider.png"
     },
     {
       "path": "static/speedometer.png"
@@ -171,25 +270,42 @@
       "path": "static/start.png"
     },
     {
+      "path": "static/switch.png"
+    },
+    {
+      "path": "static/tabpanel.png"
+    },
+    {
+      "path": "static/toggle.png"
+    },
+    {
+      "path": "static/trilogy.png"
+    },
+    {
       "path": "static/trophy-coin.png"
     },
     {
       "path": "static/trophy.png"
     },
     {
-      "path": "static/turtle-breed.png"
+      "path": "static/turtle-breed.png",
+      "old": true
     },
     {
-      "path": "static/turtle-kid.png"
+      "path": "static/turtle-kid.png",
+      "old": true
     },
     {
-      "path": "static/turtle-shell.png"
+      "path": "static/turtle-shell.png",
+      "old": true
     },
     {
-      "path": "static/turtle-speed.png"
+      "path": "static/turtle-speed.png",
+      "old": true
     },
     {
-      "path": "static/turtle.png"
+      "path": "static/turtle.png",
+      "old": true
     },
     {
       "path": "static/wallet.png"
@@ -201,28 +317,36 @@
       "path": "static/world-cup.png"
     },
     {
-      "path": "training/index.html"
+      "path": "training/index.html",
+      "old": true
     },
     {
-      "path": "turtles/appearance/index.html"
+      "path": "turtles/appearance/index.html",
+      "old": true
     },
     {
-      "path": "turtles/breeding/index.html"
+      "path": "turtles/breeding/index.html",
+      "old": true
     },
     {
-      "path": "turtles/crossbreed/index.html"
+      "path": "turtles/crossbreed/index.html",
+      "old": true
     },
     {
-      "path": "turtles/evolve/index.html"
+      "path": "turtles/evolve/index.html",
+      "old": true
     },
     {
-      "path": "turtles/family/index.html"
+      "path": "turtles/family/index.html",
+      "old": true
     },
     {
-      "path": "turtles/index.html"
+      "path": "turtles/index.html",
+      "old": true
     },
     {
-      "path": "turtles/rating/index.html"
+      "path": "turtles/rating/index.html",
+      "old": true
     }
   ]
 }
